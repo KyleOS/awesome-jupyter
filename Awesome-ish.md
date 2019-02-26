@@ -28,3 +28,8 @@ This file contains a list of resources that were suggested but didn't quite make
   * Looks like an anti-pattern, porting code to a library seems preferable
 * [pypi Jupyter](https://pypi.org/search/?q=Jupyter) - Packages on pypi that match the search term "Jupyter"
   * not a particularly useful way to discover Jupyter packages
+  
+  
+  
+  
+### TESTING GITHUB CHANGE
